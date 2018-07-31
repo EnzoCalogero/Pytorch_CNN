@@ -1,0 +1,2 @@
+python predict.py flowers/test/54/image_05413.jpg check2.pth --gpu
+
